@@ -13,13 +13,7 @@ class Person:
             print("Teen")   
 
 
-
-
-
-
 samina = Person("samina",15,"female","Experimental Sciences", "19.87")
 samina.ageTitle()
-
-
 
 

@@ -20,4 +20,4 @@ class Vehicle:
 car1 = Vehicle("BMW", 300, 50000, "Black")
 car2 = Vehicle("Mercedes", 250, 45000, "White")
 
-car1.compare(car2)
+car2.compare(car1)
